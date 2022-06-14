@@ -1,6 +1,6 @@
 # Patika Binary Search Tree Project
 
-[Patika.dev profil linkim]([https://www.kodluyoruz.org/](https://app.patika.dev/denizerkeskiner))
+[Patika.dev profil linkim](https://app.patika.dev/denizerkeskiner)
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Binary-Search-Tree
 
